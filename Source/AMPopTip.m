@@ -27,6 +27,9 @@
     if (self.touchedBlock) {
         self.touchedBlock();
     }
+
+
+    
 }
 
 @end
